@@ -1,2 +1,1 @@
 # ShopCMS-PlatformAdmin
-ShopCMS-PlatformAdmin
