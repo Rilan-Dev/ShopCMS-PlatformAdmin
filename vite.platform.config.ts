@@ -25,6 +25,7 @@ export default defineConfig(({ mode }) => ({
       input: path.resolve(__dirname, "index.html"),
     },
     outDir: "dist",
+    
     emptyOutDir: true,
   },
 }));
